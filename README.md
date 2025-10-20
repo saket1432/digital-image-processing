@@ -110,23 +110,13 @@ processor.plot_rgb_histograms()
 ![Encrypted Image](encrypted_image.png)
 *XOR-encrypted version of the original image - appears as noise*
 
-### Image Decryption Process
-![Decrypted Image](decrypted_image.png)
-*Successfully decrypted image - should match the original*
-
-### Wiener Filter Enhancement
-![Wiener Filtered](filtered.png)
-*Image after applying Wiener filter for noise reduction*
-
 ### Histogram Analysis
 
 #### Grayscale Histogram
 ![Grayscale Histogram](histogram.png)
 *Distribution of gray levels in the image*
 
-#### RGB Component Histograms
-![RGB Histograms](histograms.png)
-*Separate histograms for Red, Green, and Blue color channels*
+*Note: Additional output images (decrypted_image.png, wiener_filtered.png, rgb_histograms.png) will be generated when you run the script functions.*
 
 ## 🔬 Technical Details
 
