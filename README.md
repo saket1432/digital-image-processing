@@ -114,7 +114,9 @@ processor.plot_rgb_histograms()
 
 #### Grayscale Histogram
 ![Grayscale Histogram](histogram.png)
+
 *Distribution of gray levels in the image*
+
 
 *Note: Additional output images (decrypted_image.png, wiener_filtered.png, rgb_histograms.png) will be generated when you run the script functions.*
 
