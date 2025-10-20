@@ -115,17 +115,17 @@ processor.plot_rgb_histograms()
 *Successfully decrypted image - should match the original*
 
 ### Wiener Filter Enhancement
-![Wiener Filtered](wiener_filtered.png)
+![Wiener Filtered](filtered.png)
 *Image after applying Wiener filter for noise reduction*
 
 ### Histogram Analysis
 
 #### Grayscale Histogram
-![Grayscale Histogram](grayscale_histogram.png)
+![Grayscale Histogram](histogram.png)
 *Distribution of gray levels in the image*
 
 #### RGB Component Histograms
-![RGB Histograms](rgb_histograms.png)
+![RGB Histograms](histograms.png)
 *Separate histograms for Red, Green, and Blue color channels*
 
 ## 🔬 Technical Details
