@@ -1,4 +1,4 @@
-# Digital Image Processing Suite 🖼️
+# Digital Image Processing 
 
 A comprehensive Python-based image processing toolkit that provides various image manipulation and analysis capabilities including encryption, filtering, and histogram analysis.
 
